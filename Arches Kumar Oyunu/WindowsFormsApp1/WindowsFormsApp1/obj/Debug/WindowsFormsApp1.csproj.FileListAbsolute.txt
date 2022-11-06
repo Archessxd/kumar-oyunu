@@ -1,0 +1,10 @@
+E:\!arches\Yazılım\c#\14 - owogame\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\!arches\Yazılım\c#\14 - owogame\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\!arches\Yazılım\c#\14 - owogame\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\!arches\Yazılım\c#\14 - owogame\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\!arches\Yazılım\c#\14 - owogame\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\!arches\Yazılım\c#\14 - owogame\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\!arches\Yazılım\c#\14 - owogame\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\!arches\Yazılım\c#\14 - owogame\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\!arches\Yazılım\c#\14 - owogame\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\!arches\Yazılım\c#\14 - owogame\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

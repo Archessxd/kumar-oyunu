@@ -1,0 +1,10 @@
+C:\Users\rasitxd\Documents\Arches Kumar Oyunu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\rasitxd\Documents\Arches Kumar Oyunu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\rasitxd\Documents\Arches Kumar Oyunu\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\rasitxd\Documents\Arches Kumar Oyunu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Arches Kumar Oyunu.csproj.AssemblyReference.cache
+C:\Users\rasitxd\Documents\Arches Kumar Oyunu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\rasitxd\Documents\Arches Kumar Oyunu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\rasitxd\Documents\Arches Kumar Oyunu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Arches Kumar Oyunu.csproj.GenerateResource.cache
+C:\Users\rasitxd\Documents\Arches Kumar Oyunu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Arches Kumar Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\rasitxd\Documents\Arches Kumar Oyunu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\rasitxd\Documents\Arches Kumar Oyunu\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
